@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Иван Немченко](https://up.htmlacademy.ru/adaptive/27/user/2065035).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
